@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: jhhj | Anggi Riyandi]]></title>
+  <link href="http://anggiriyandi.github.io/blog/categories/jhhj/atom.xml" rel="self"/>
+  <link href="http://anggiriyandi.github.io/"/>
+  <updated>2014-05-09T18:32:16+07:00</updated>
+  <id>http://anggiriyandi.github.io/</id>
+  <author>
+    <name><![CDATA[Anggi Riyandi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post part II]]></title>
+    <link href="http://anggiriyandi.github.io/jhhj/first-post-part-ii/"/>
+    <updated>2014-05-08T22:42:31+07:00</updated>
+    <id>http://anggiriyandi.github.io/jhhj/first-post-part-ii</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

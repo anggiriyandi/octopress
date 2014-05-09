@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Anggi Riyandi]]></title>
   <link href="http://anggiriyandi.github.io/atom.xml" rel="self"/>
   <link href="http://anggiriyandi.github.io/"/>
-  <updated>2014-05-07T23:34:06+07:00</updated>
+  <updated>2014-05-09T18:32:16+07:00</updated>
   <id>http://anggiriyandi.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Anggi Riyandi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post part III]]></title>
+    <link href="http://anggiriyandi.github.io/first-post-part-iii/"/>
+    <updated>2014-05-08T22:45:59+07:00</updated>
+    <id>http://anggiriyandi.github.io/first-post-part-iii</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post part II]]></title>
+    <link href="http://anggiriyandi.github.io/jhhj/first-post-part-ii/"/>
+    <updated>2014-05-08T22:42:31+07:00</updated>
+    <id>http://anggiriyandi.github.io/jhhj/first-post-part-ii</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://anggiriyandi.github.io/first-post/"/>
+    <updated>2014-05-08T22:42:25+07:00</updated>
+    <id>http://anggiriyandi.github.io/first-post</id>
+    <content type="html"><![CDATA[<p>hahaha ahahha ahahah ahahah ahahaha ahhaha hahahah ahahhhhhhhhhhhhhhhhh ahhhhhhhhhhhhhhhh ahhhhhhhhhhhh ahhhhhhhhhhhhhhh ahhhhhhh
+ajjjjjjjjjjjjjj ahhhhhhhhhhhh ahhhhhhhhhhhhhh ahhhhhhhhhhhh ahhhhhhhhhhhhh ahhhhhhhhhhhhh ha       haaaaaaaaaaaaaaaaa
+ahhhhhhhhhhhhhh ahhhhhhhhhhhh ahsdggggggggggg         adsgggggggggggggggggggggggg   aggggggggggggggggggg agggggggggggggg aggggggg
+aggggggggggggggggggnaggggg aggggggggggg aggggggggggg agggggggggggg aggggggggggggggg agggggggggggggggg agggggggggg aggggggggggg
+agggggggggggggggggggg aggggggggggggg assssssssss saaaaaaaa asssssssssssssss saaaaaaaaaaaaaaa asssssssssssssss asssssssssss asssssss
+asssssssssssssssssss asssssssssssssssssssssss assssssssssssssss assssssssssssssss asssssssssssss assssssssssssss asssssssssssss
+sssssdddddd ssssssssssd sssssssssssss ddddddddddd fffffffff gggggggggg ggggggggs       ssssssssssss ssssssss sssssssssssss ssssss s
+sssssssssssss sssssssssssssssssssss sssssssssssssssss ssssssssssssssss ssssssssssssss ssssssssss fffffffff ggggggg fffffff ffffffff
+sssssssssssssssssssffffffg         gggggggggggssssss sssssssss sssssssssssss sssssssssss ssssssssss gggggggggg ffffffffff gggggggg g
+sssssssssss sssssss ggggg ssssss ddddd ssss ssss ddd dddd dddd dddd dddddd dddd dddddddddd ddddddddddd dddddddddd ddddddd dddddddd
+sssssssssssssssss ssssssssssssss sssssssssss ssssssssssss sssssssss ssssssssss ddddddd gggggggg ssssssss sssssssss sssssssss ssssss s
+sssssssssss gggggggggggg ssssssssssssssssssssssssssssssssg sssssd sssssssssssssssssssssssss ssssssssssssss sssssssssssss sssssssss</p>
+
+<!-- more -->
+
+
+<p>hahaha ahahha ahahah ahahah ahahaha ahhaha hahahah ahahhhhhhhhhhhhhhhhh ahhhhhhhhhhhhhhhh ahhhhhhhhhhhh ahhhhhhhhhhhhhhh ahhhhhhh
+ajjjjjjjjjjjjjj ahhhhhhhhhhhh ahhhhhhhhhhhhhh ahhhhhhhhhhhh ahhhhhhhhhhhhh ahhhhhhhhhhhhh ha       haaaaaaaaaaaaaaaaa
+ahhhhhhhhhhhhhh ahhhhhhhhhhhh ahsdggggggggggg         adsgggggggggggggggggggggggg   aggggggggggggggggggg agggggggggggggg aggggggg
+aggggggggggggggggggnaggggg aggggggggggg aggggggggggg agggggggggggg aggggggggggggggg agggggggggggggggg agggggggggg aggggggggggg
+agggggggggggggggggggg aggggggggggggg assssssssss saaaaaaaa asssssssssssssss saaaaaaaaaaaaaaa asssssssssssssss asssssssssss asssssss
+asssssssssssssssssss asssssssssssssssssssssss assssssssssssssss assssssssssssssss asssssssssssss assssssssssssss asssssssssssss
+sssssdddddd ssssssssssd sssssssssssss ddddddddddd fffffffff gggggggggg ggggggggs       ssssssssssss ssssssss sssssssssssss ssssss s
+sssssssssssss sssssssssssssssssssss sssssssssssssssss ssssssssssssssss ssssssssssssss ssssssssss fffffffff ggggggg fffffff ffffffff
+sssssssssssssssssssffffffg         gggggggggggssssss sssssssss sssssssssssss sssssssssss ssssssssss gggggggggg ffffffffff gggggggg g
+sssssssssss sssssss ggggg ssssss ddddd ssss ssss ddd dddd dddd dddd dddddd dddd dddddddddd ddddddddddd dddddddddd ddddddd dddddddd
+sssssssssssssssss ssssssssssssss sssssssssss ssssssssssss sssssssss ssssssssss ddddddd gggggggg ssssssss sssssssss sssssssss ssssss s
+sssssssssss gggggggggggg ssssssssssssssssssssssssssssssssg sssssd sssssssssssssssssssssssss ssssssssssssss sssssssssssss sssssssss</p>
+]]></content>
+  </entry>
   
 </feed>

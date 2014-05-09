@@ -1,15 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://anggiriyandi.github.io/first-post/</loc>
+        <lastmod>2014-05-09T17:13:45+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/jhhj/first-post-part-ii/</loc>
+        <lastmod>2014-05-09T14:26:17+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/first-post-part-iii/</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/components.html</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/customize.html</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/getting-started.html</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/migration.html</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/about.html</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/css.html</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/javascript.html</loc>
+        <lastmod>2014-05-09T11:40:01+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anggiriyandi.github.io/assets/bootstrap/docs/</loc>
+        <lastmod>2014-05-09T17:13:45+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://anggiriyandi.github.io/blog/archives/</loc>
-        <lastmod>2014-05-07T23:32:48+07:00</lastmod>
+        <lastmod>2014-05-09T17:13:45+07:00</lastmod>
     </url>
     <url>
         <loc>http://anggiriyandi.github.io/robots.txt</loc>
-        <lastmod>2014-05-07T23:32:48+07:00</lastmod>
+        <lastmod>2014-05-08T22:41:55+07:00</lastmod>
     </url>
     <url>
         <loc>http://anggiriyandi.github.io/</loc>
-        <lastmod>2014-05-07T23:32:48+07:00</lastmod>
+        <lastmod>2014-05-09T17:13:45+07:00</lastmod>
     </url>
 </urlset>
