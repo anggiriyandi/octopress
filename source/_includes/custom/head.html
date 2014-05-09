@@ -1,3 +1,6 @@
 <link href="{{ root_url }}/assets/bootstrap/dist/css/bootstrap.css" rel="stylesheet" type="text/css">
 <link href="{{ root_url }}/assets/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" type="text/css">
 <link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+{% if site.facebook_appid %}
+<meta property="fb:app_id" content="{{ site.facebook_appid }}" />
+{% endif %}
